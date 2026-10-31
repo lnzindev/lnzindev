@@ -36,10 +36,10 @@ A web platform built to support a FIRST LEGO League robotics team, with team wor
 
 **JavaScript · Supabase · Vercel**
 
-### 📊 [Rabbitech BIOGLOW Score](https://github.com/lnzindev/Rabbitech-calculator)
-A standalone FLL scoring tool for mission calculations, penalties, team management, match history, comparisons, and JSON backups.
+### 🏆 [Rabbitech BIOGLOW Future Edition Score](https://github.com/lnzindev/Rabbitech-calculator)
+A scoring calculator developed for the **FIRST LEGO League Future Edition** competition mat. I created what is, to my knowledge, the **world's first calculator built by a competing participant specifically for this new mat**, turning its missions and scoring rules into a practical digital tool.
 
-**HTML · CSS · JavaScript**
+**FIRST LEGO League Future Edition · Mission scoring · HTML · CSS · JavaScript**
 
 ### 🔌 [ESP32 × LEGO Pybricks](https://github.com/lnzindev/conexao-a-esp-com-lego-pybricks)
 Hardware experiments exploring BLE communication between an ESP32 and LEGO SPIKE hubs running Pybricks.
