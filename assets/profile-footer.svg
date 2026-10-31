@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="104" viewBox="0 0 1200 104" role="img" aria-labelledby="title">
+  <title id="title">Build, learn, iterate</title>
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8b5cf6" stop-opacity="0"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></linearGradient>
+  </defs>
+  <path d="M0 20H1200" stroke="#292536" stroke-width="1"/>
+  <path d="M0 20H1200" stroke="url(#line)" stroke-width="2" stroke-dasharray="110 1090">
+    <animate attributeName="stroke-dashoffset" from="1200" to="0" dur="9s" repeatCount="indefinite"/>
+  </path>
+  <g font-family="SFMono-Regular,Consolas,monospace" font-size="13" fill="#aaa5bb">
+    <text x="600" y="62" text-anchor="middle">BUILD  <tspan fill="#8b5cf6">/</tspan>  LEARN  <tspan fill="#8b5cf6">/</tspan>  ITERATE</text>
+  </g>
+  <circle cx="600" cy="20" r="3" fill="#c4b5fd">
+    <animate attributeName="opacity" values=".2;1;.2" dur="2s" repeatCount="indefinite"/>
+  </circle>
+</svg>
