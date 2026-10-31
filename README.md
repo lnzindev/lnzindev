@@ -23,34 +23,29 @@ I'm **Luiz**, also known as **Inzindev**. I'm interested in software development
 - 🤖 Interested in robotics, embedded systems, automation, and game technology.
 - 🌱 Currently exploring web development, Python, AI integrations, and 3D rendering.
 
-## Featured work
+## Featured projects
 
 <div align="center">
 
-<a href="https://github.com/lnzindev/Rabbitech-JARVIS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lnzindev&repo=Rabbitech-JARVIS&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/lnzindev/Minecraft-WebLab">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lnzindev&repo=Minecraft-WebLab&theme=tokyonight&hide_border=true" />
-</a>
+<a href="https://github.com/lnzindev/Rabbitech-JARVIS"><strong>🤖 Rabbitech JARVIS</strong></a><br/>
+Experimental AI assistant with a web chat, browser voice features, and a procedural 3D lab.
 
-<a href="https://github.com/lnzindev/conexao-a-esp-com-lego-pybricks">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lnzindev&repo=conexao-a-esp-com-lego-pybricks&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/lnzindev/Rabbitech-calculator-first-lego-league">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lnzindev&repo=Rabbitech-calculator-first-lego-league&theme=tokyonight&hide_border=true" />
-</a>
+<br/>
+
+<a href="https://github.com/lnzindev/Minecraft-WebLab"><strong>🧱 Minecraft WebLab</strong></a><br/>
+Experimental WebGL 2 renderer for selected Minecraft Bedrock resource-pack assets.
+
+<br/>
+
+<a href="https://github.com/lnzindev/conexao-a-esp-com-lego-pybricks"><strong>🔌 ESP32 + LEGO Pybricks</strong></a><br/>
+Bluetooth Low Energy experiments connecting ESP32 with LEGO hubs.
+
+<br/>
+
+<a href="https://github.com/lnzindev/Rabbitech-calculator-first-lego-league"><strong>🏁 Rabbitech FLL Calculator</strong></a><br/>
+A project connected to FIRST LEGO League robotics.
 
 </div>
-
-### What I'm building
-
-| Project | Focus |
-| --- | --- |
-| [Rabbitech JARVIS](https://github.com/lnzindev/Rabbitech-JARVIS) | Experimental AI assistant, browser voice features, and web interface. |
-| [Minecraft WebLab](https://github.com/lnzindev/Minecraft-WebLab) | Experimental WebGL 2 renderer for selected Minecraft Bedrock assets. |
-| [ESP32 + LEGO Pybricks](https://github.com/lnzindev/conexao-a-esp-com-lego-pybricks) | Bluetooth LE experiments between ESP32 and LEGO hubs. |
-| [Rabbitech FLL Calculator](https://github.com/lnzindev/Rabbitech-calculator-first-lego-league) | Tooling connected to FIRST LEGO League robotics. |
 
 <sub>Projects are works in progress. Check each repository for its current scope, setup, and limitations.</sub>
 
