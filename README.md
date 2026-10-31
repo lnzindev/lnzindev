@@ -2,9 +2,9 @@
 
 <img src="./assets/profile-banner-v3.svg" alt="LNZINDEV — Software, AI and Robotics" width="100%" />
 
-**Software Development · Artificial Intelligence · Robotics · 3D on the Web**
+**Software · Artificial Intelligence · Robotics · Web Graphics**
 
-Building independent projects, learning by solving real problems, and documenting the process.
+I turn ideas into practical experiments, learn by building, and improve through testing.
 
 [Repositories](https://github.com/lnzindev?tab=repositories) · [Projects](https://github.com/lnzindev?tab=projects) · [Activity](https://github.com/lnzindev?tab=overview)
 
@@ -12,58 +12,73 @@ Building independent projects, learning by solving real problems, and documentin
 
 ---
 
-## About
+## About me
 
-I'm **Luiz**, known here as **lnzindev**. I'm a student and developer in progress with a strong interest in understanding how technology works and turning ideas into working projects.
+I'm **Luiz**, a student developer from Brazil known as **lnzindev**. I'm interested in how software and hardware work together, especially in web development, artificial intelligence, robotics, embedded systems, and 3D graphics.
 
-I explore the connection between software and hardware: web applications, AI integrations, robotics, embedded systems, Bluetooth communication, and real-time 3D graphics. I like to build, test, investigate what fails, and improve the result instead of treating code as magic.
+Most of what I learn comes from building things: starting with an idea, making a prototype, debugging what breaks, and documenting what I discover. I'm still learning, and that's part of the process.
 
-**Current focus**
-- Developing browser-based 3D rendering experiments with WebGL 2.
-- Building tools and digital workflows for the Rabbitech BIOGLOW robotics team.
-- Exploring BLE communication between ESP32 boards and LEGO hubs running Pybricks.
-- Studying software architecture, APIs, testing, and secure deployment practices.
+**What I'm focused on**
+- Browser-based 3D rendering with **WebGL 2**.
+- Digital tools and software for the **Rabbitech BIOGLOW** robotics team.
+- **Bluetooth Low Energy** experiments between ESP32 boards and LEGO hubs using Pybricks.
+- Improving my skills in software architecture, APIs, testing, and deployment.
 
-## Selected projects
+## Featured projects
 
-| Project | What I'm building |
-| --- | --- |
-| [**Minecraft WebLab**](https://github.com/lnzindev/Minecraft-WebLab) | An experimental browser renderer that interprets selected Minecraft Bedrock resource-pack assets using WebGL 2. |
-| [**Rabbitech BIOGLOW FLLC**](https://github.com/lnzindev/Rabbitech-calculator-first-lego-league) | A web platform for the robotics team, with scoring, team workflows, rankings, notices, and administration tools. |
-| [**Rabbitech BIOGLOW Score**](https://github.com/lnzindev/Rabbitech-calculator) | A standalone FLL scoring calculator with mission breakdowns, team management, match history, comparisons, and local JSON backups. |
-| [**ESP32 × LEGO Pybricks**](https://github.com/lnzindev/conexao-a-esp-com-lego-pybricks) | Hardware experiments using Bluetooth Low Energy messages between ESP32 and LEGO SPIKE hubs. |
+### 🧱 [Minecraft WebLab](https://github.com/lnzindev/Minecraft-WebLab)
+An experimental browser-based 3D renderer that interprets selected Minecraft Bedrock resource-pack assets using WebGL 2.
 
-## Technologies I use and explore
+**JavaScript · WebGL 2 · Vite**
 
-<div align="center">
+### 🏁 [Rabbitech BIOGLOW FLLC](https://github.com/lnzindev/Rabbitech-calculator-first-lego-league)
+A web platform built to support a FIRST LEGO League robotics team, with team workflows, scoring, rankings, notices, and administration tools.
+
+**JavaScript · Supabase · Vercel**
+
+### 📊 [Rabbitech BIOGLOW Score](https://github.com/lnzindev/Rabbitech-calculator)
+A standalone FLL scoring tool for mission calculations, penalties, team management, match history, comparisons, and JSON backups.
+
+**HTML · CSS · JavaScript**
+
+### 🔌 [ESP32 × LEGO Pybricks](https://github.com/lnzindev/conexao-a-esp-com-lego-pybricks)
+Hardware experiments exploring BLE communication between an ESP32 and LEGO SPIKE hubs running Pybricks.
+
+**ESP32 · Arduino · Pybricks · Bluetooth LE**
+
+<sub>These are evolving projects and experiments. Their repositories describe current capabilities, setup instructions, and known limitations.</sub>
+
+## Technologies
+
+**Languages & web**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-171522?style=flat-square&logo=javascript&logoColor=f7df1e)
-![HTML5](https://img.shields.io/badge/HTML5-171522?style=flat-square&logo=html5&logoColor=e34f26)
-![CSS3](https://img.shields.io/badge/CSS3-171522?style=flat-square&logo=css3&logoColor=1572b6)
 ![Python](https://img.shields.io/badge/Python-171522?style=flat-square&logo=python&logoColor=3776ab)
 ![C++](https://img.shields.io/badge/C++-171522?style=flat-square&logo=cplusplus&logoColor=659ad2)
+![HTML5](https://img.shields.io/badge/HTML5-171522?style=flat-square&logo=html5&logoColor=e34f26)
+![CSS3](https://img.shields.io/badge/CSS3-171522?style=flat-square&logo=css3&logoColor=1572b6)
+
+**Tools & platforms**
+
+![WebGL 2](https://img.shields.io/badge/WebGL%202-171522?style=flat-square&logo=webgl&logoColor=ffffff)
 ![Arduino](https://img.shields.io/badge/Arduino-171522?style=flat-square&logo=arduino&logoColor=00979d)
-![WebGL](https://img.shields.io/badge/WebGL%202-171522?style=flat-square&logo=webgl&logoColor=ffffff)
 ![Vite](https://img.shields.io/badge/Vite-171522?style=flat-square&logo=vite&logoColor=bd34fe)
 ![Node.js](https://img.shields.io/badge/Node.js-171522?style=flat-square&logo=nodedotjs&logoColor=5fa04e)
 ![Supabase](https://img.shields.io/badge/Supabase-171522?style=flat-square&logo=supabase&logoColor=3fcf8e)
 ![Vercel](https://img.shields.io/badge/Vercel-171522?style=flat-square&logo=vercel&logoColor=ffffff)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-171522?style=flat-square&logo=githubactions&logoColor=2088ff)
+![GitHub](https://img.shields.io/badge/GitHub-171522?style=flat-square&logo=github&logoColor=ffffff)
 
-</div>
+I use these technologies across different projects. This list reflects my current hands-on experience and learning interests, not a claim of expertise in every tool.
 
-I use these tools across different experiments and projects. This list describes my current hands-on interests, not a claim of mastery in every technology.
+## Beyond the screen
 
-## How I approach development
+Robotics competitions and hardware experiments taught me that a good idea is only the beginning. I enjoy the process of testing, finding problems, and making a system work reliably.
 
-- **Understand the problem:** define what the project should and should not do.
-- **Build in small steps:** prefer testable components over unexplained complexity.
-- **Validate honestly:** document what works, what is experimental, and what still needs testing.
-- **Keep improving:** use feedback, debugging, and iteration to make each version better.
+I'm especially interested in projects where code interacts with the physical world.
 
 ## Sobre mim
 
-Sou Luiz, estudante e desenvolvedor em formação. Gosto de programação, inteligência artificial, robótica e eletrônica. Aprendo construindo projetos práticos, estudando como as tecnologias funcionam e melhorando cada implementação com testes e documentação.
+Sou Luiz, estudante e desenvolvedor em formação no Brasil. Gosto de programação, inteligência artificial, robótica e eletrônica. Aprendo criando projetos reais, testando ideias, investigando erros e melhorando cada versão.
 
 <div align="center">
 
