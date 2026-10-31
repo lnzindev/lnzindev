@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">Inzindev — Developer portfolio</title>
+<desc id="desc">Premium dark developer banner with violet workstation, code editor and the Inzindev identity.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070910"/><stop offset=".55" stop-color="#111222"/><stop offset="1" stop-color="#1c1031"/></linearGradient>
+ <linearGradient id="violet" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#8b5cf6"/><stop offset="1" stop-color="#d8b4fe"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#8b5cf6" stop-opacity=".42"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#a78bfa" stroke-opacity=".08"/></pattern>
+ <filter id="blur"><feGaussianBlur stdDeviation="18"/></filter>
+ <filter id="shadow"><feGaussianBlur stdDeviation="7"/></filter>
+ <clipPath id="clip"><rect width="1200" height="340" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+ <rect width="1200" height="340" fill="url(#bg)"/><rect width="1200" height="340" fill="url(#grid)"/>
+ <ellipse cx="950" cy="170" rx="300" ry="230" fill="url(#glow)" filter="url(#blur)"/>
+ <path d="M0 290H1200" stroke="#a78bfa" stroke-opacity=".14"/>
+ <g opacity=".6" fill="none" stroke="#9b7af7"><path d="M680 48h56l18 18h36"/><path d="M690 270h60l18-18h42"/><circle cx="680" cy="48" r="3" fill="#c4b5fd"/><circle cx="810" cy="66" r="3" fill="#c4b5fd"/></g>
+ <g font-family="Inter,Segoe UI,Arial,sans-serif">
+  <text x="76" y="83" fill="#b9a4ff" font-size="14" font-weight="700" letter-spacing="4">SOFTWARE  /  AI  /  ROBOTICS</text>
+  <text x="70" y="166" fill="#f8f7ff" font-size="76" font-weight="800" letter-spacing="-3">INZINDEV</text>
+  <rect x="76" y="190" width="74" height="4" rx="2" fill="url(#violet)"/>
+  <text x="76" y="230" fill="#e4e0ef" font-size="22">Building ideas into real projects.</text>
+  <text x="76" y="264" fill="#8f8ba1" font-size="14" letter-spacing="1">LEARN  ·  BUILD  ·  IMPROVE</text>
+ </g>
+ <!-- Workstation scene -->
+ <g transform="translate(720 42)">
+  <rect x="20" y="14" width="340" height="205" rx="13" fill="#090b14" stroke="#8b5cf6" stroke-opacity=".8" stroke-width="2"/>
+  <rect x="30" y="24" width="320" height="185" rx="8" fill="#0c1020"/>
+  <path d="M30 54H350" stroke="#3a2c58"/>
+  <circle cx="48" cy="39" r="4" fill="#fb7185"/><circle cx="63" cy="39" r="4" fill="#fbbf24"/><circle cx="78" cy="39" r="4" fill="#4ade80"/>
+  <text x="96" y="43" fill="#85809a" font-family="monospace" font-size="10">inzindev / workspace</text>
+  <g font-family="monospace" font-size="13">
+   <text x="52" y="82" fill="#c4b5fd">const</text><text x="101" y="82" fill="#f4efff"> developer = {</text>
+   <text x="68" y="108" fill="#7dd3fc">focus:</text><text x="126" y="108" fill="#d8b4fe"> "building",</text>
+   <text x="68" y="134" fill="#7dd3fc">interests:</text><text x="151" y="134" fill="#d8b4fe"> ["AI", "web", "robotics"]</text>
+   <text x="52" y="160" fill="#f4efff">};</text>
+   <rect x="79" y="148" width="7" height="14" fill="#c4b5fd"><animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></rect>
+  </g>
+  <path d="M190 220v18m-62 0h124" stroke="#7f6ba9" stroke-width="5" stroke-linecap="round"/>
+  <!-- desk -->
+  <path d="M-4 247h402l-22 12H18z" fill="#211638" stroke="#7553b5"/>
+  <path d="M30 260v24m330-24v24" stroke="#51406f" stroke-width="5"/>
+  <!-- PC tower -->
+  <rect x="378" y="90" width="72" height="168" rx="9" fill="#10111c" stroke="#8b5cf6" stroke-width="2"/>
+  <rect x="388" y="101" width="52" height="146" rx="6" fill="#151126"/>
+  <circle cx="414" cy="147" r="22" fill="none" stroke="#a78bfa" stroke-width="2" opacity=".8"/>
+  <circle cx="414" cy="147" r="13" fill="none" stroke="#d8b4fe" stroke-width="2" opacity=".65"/>
+  <circle cx="414" cy="147" r="4" fill="#c4b5fd"/>
+  <circle cx="414" cy="203" r="22" fill="none" stroke="#8b5cf6" stroke-width="2" opacity=".8"/>
+  <circle cx="414" cy="203" r="12" fill="none" stroke="#d8b4fe" stroke-width="2" opacity=".65"/>
+  <path d="M402 118h24" stroke="#a78bfa" stroke-width="2"/>
+ </g>
+ <!-- moving light sweep, subtle; static art remains if animation is stripped -->
+ <rect x="-180" y="0" width="90" height="340" fill="#c4b5fd" opacity=".10" transform="skewX(-18)">
+  <animate attributeName="x" from="-180" to="1320" dur="14s" repeatCount="indefinite"/>
+ </rect>
+ <text x="1128" y="318" text-anchor="end" fill="#716b86" font-family="monospace" font-size="11">INZINDEV © 2026</text>
+</g>
+</svg>
