@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" alt="Inzindev — Software, AI and Robotics" width="100%" />
+<img src="./assets/profile-banner-v3.svg" alt="Inzindev — Software, AI and Robotics" width="100%" />
 
 **Developer · Software · AI · Robotics**
 
