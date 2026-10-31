@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Inzindev developer banner</title>
+  <desc id="desc">Dark purple technology banner with code-inspired graphics and the name Inzindev.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#090b14"/>
+      <stop offset="0.55" stop-color="#151126"/>
+      <stop offset="1" stop-color="#24113b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#a78bfa"/>
+      <stop offset="1" stop-color="#e879f9"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#a78bfa" stroke-opacity=".10" stroke-width="1"/>
+    </pattern>
+    <filter id="glow"><feGaussianBlur stdDeviation="12"/></filter>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <circle cx="1010" cy="80" r="120" fill="#8b5cf6" opacity=".18" filter="url(#glow)"/>
+  <circle cx="900" cy="300" r="100" fill="#d946ef" opacity=".12" filter="url(#glow)"/>
+  <g fill="none" stroke="url(#accent)" stroke-width="2" opacity=".8">
+    <path d="M780 70h90l28 28h115"/>
+    <path d="M820 125h60l24-24h90"/>
+    <path d="M790 250h110l25-25h130"/>
+    <path d="M960 165h80l22 22h70"/>
+    <circle cx="780" cy="70" r="5" fill="#c4b5fd"/>
+    <circle cx="1091" cy="98" r="5" fill="#e879f9"/>
+    <circle cx="790" cy="250" r="5" fill="#c4b5fd"/>
+    <circle cx="1112" cy="187" r="5" fill="#e879f9"/>
+  </g>
+  <g transform="translate(790 85)" opacity=".95">
+    <rect x="0" y="0" width="320" height="190" rx="16" fill="#0b0d18" stroke="#8b5cf6" stroke-opacity=".65"/>
+    <path d="M0 42h320" stroke="#8b5cf6" stroke-opacity=".35"/>
+    <circle cx="22" cy="21" r="5" fill="#fb7185"/><circle cx="42" cy="21" r="5" fill="#fbbf24"/><circle cx="62" cy="21" r="5" fill="#34d399"/>
+    <g font-family="monospace" font-size="15">
+      <text x="22" y="76" fill="#c4b5fd">const</text><text x="72" y="76" fill="#f0abfc"> developer</text><text x="165" y="76" fill="#e5e7eb"> = {</text>
+      <text x="38" y="106" fill="#a7f3d0">build:</text><text x="94" y="106" fill="#e5e7eb"> "ideas"</text>
+      <text x="38" y="136" fill="#a7f3d0">learn:</text><text x="94" y="136" fill="#e5e7eb"> "everyday"</text>
+      <text x="22" y="166" fill="#e5e7eb">};</text>
+    </g>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="72" y="112" fill="#c4b5fd" font-size="17" font-weight="700" letter-spacing="5">SOFTWARE • AI • ROBOTICS</text>
+    <text x="68" y="190" fill="#ffffff" font-size="76" font-weight="800" letter-spacing="-2">INZINDEV</text>
+    <rect x="72" y="220" width="92" height="5" rx="3" fill="url(#accent)"/>
+    <text x="72" y="270" fill="#d1d5db" font-size="25">Building, breaking &amp; learning.</text>
+    <text x="72" y="310" fill="#9ca3af" font-size="16" letter-spacing="2">LUIZ  /  BRAZIL</text>
+  </g>
+</svg>
