@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-banner-v3.svg" alt="Inzindev — Software, AI and Robotics" width="100%" />
+<img src="./assets/profile-banner-v3.svg" alt="LNZINDEV — Software, AI and Robotics" width="100%" />
 
 **Developer · Software · AI · Robotics**
 
@@ -14,7 +14,7 @@ I build and explore projects at the intersection of software, artificial intelli
 
 ## About
 
-I'm **Luiz**, also known as **Inzindev**. I enjoy understanding how technology works under the hood and turning ideas into practical experiments. My interests include web development, AI integrations, 3D rendering, electronics, and robotics.
+I'm **Luiz**, also known as **LNZINDEV**. I enjoy understanding how technology works under the hood and turning ideas into practical experiments. My interests include web development, AI integrations, 3D rendering, electronics, and robotics.
 
 **Currently exploring:** JavaScript · Python · WebGL · ESP32 · Bluetooth LE · AI integrations
 
